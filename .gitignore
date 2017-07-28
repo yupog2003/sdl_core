@@ -5,3 +5,5 @@ CMakeCache.txt
 CMakeFiles/
 *.pyc
 .idea
+cmake-build-debug/
+.directory
